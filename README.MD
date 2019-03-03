@@ -1,1 +1,1 @@
-This is temp. README.md file for CatSpeak.
+This is a tempoary README.MD file for CatSpeak,
