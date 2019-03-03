@@ -10,3 +10,4 @@ C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debu
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak Concept.exe
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak Concept.xml
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak Concept.pdb
+C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak_Concept.Contacts.resources
