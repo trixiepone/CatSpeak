@@ -22,6 +22,16 @@ CatSpeak Concept
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:CatSpeak_Concept.My.Resources.Resources.greenMSN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CatSpeak_Concept.My.Resources.Resources.MSNpic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:CatSpeak_Concept.My.Resources.Resources.OrangeMSN">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

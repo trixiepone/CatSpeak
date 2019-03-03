@@ -122,5 +122,11 @@
   <ItemGroup>
     <None Include="Resources\OrangeMSN.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSNpic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greenMSN.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
